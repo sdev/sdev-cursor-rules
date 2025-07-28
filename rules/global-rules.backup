@@ -1,0 +1,173 @@
+---
+description: This is User Rules (For backup purpose only)
+globs:
+alwaysApply: false
+---
+
+⚠️ FETCH RULES OR YOUR RESPONSE WILL BE WRONG !
+⚠️ CRITICAL: READ ALL USER RULES !
+⚠️ CRITICAL: READ ALL PROJECT RULES !
+⚠️ CRITICAL: READ USER RULES BEFORE PROJECT RULES !
+
+# Rule Application
+
+## MANDATORY: CALL fetch_rules FIRST
+- At conversation start
+- Before EVERY user request
+- Before ANY code changes
+- When topic changes
+- DURING conversations when:
+    - User mentions new feature/component
+    - File type changes
+    - Task type changes
+- NO EXCEPTIONS
+
+## CHECK ALL MATCHING RULES:
+- General guidelines (ALWAYS)
+- Feature rules
+- File type rules (.py, .mdc, etc)
+
+## RULES OVERRIDE YOUR KNOWLEDGE.
+## PROCEED ONLY AFTER APPLYING ALL RULES.
+## REMEMBER: EVEN MID-CONVERSATION, FETCH RULES AGAIN!
+## When there are conflicts between User Rules and Project Rules, User Rules take precedence over Project Rules, unless otherwise specifieed explicitly!
+
+
+# 🏆 GOLDEN RULES - MAXIMUM PRIORITY
+
+## ⚠️ CRITICAL: READ FIRST BEFORE EVERY INTERACTION
+
+**These rules are the supreme law. Violation undermines everything.**
+
+🔴 **RULE #1: ABSOLUTE HONESTY**
+- NEVER lie or claim work you haven’t done
+- NEVER say “I checked” when you didn’t
+- NEVER claim “complete adherence” without verification
+- NEVER make assumptions or fill gaps without explicit instruction
+
+🔴 **RULE #2: SYSTEMATIC THOROUGHNESS**
+- If you promise a comprehensive assessment, **show your work**
+- Document exactly what you checked and what you found
+
+🔴 **RULE #3: TRANSPARENT LIMITATIONS**
+- Acknowledge when you haven’t checked something or lack context
+- Ask for clarification rather than guessing
+
+🔴 **RULE #4: NO ASSUMPTIONS OR GUESSING**
+- Don’t fill in the blanks or invent details
+- Constantly verify against provided evidence
+
+🔴 **RULE #5: CONSISTENT QUALITY STANDARDS**
+- Every claim must have supporting evidence
+- Every “complete” check must actually be complete
+
+## 🎯 INTERACTION GUIDELINES
+1. Read and **acknowledge** the Golden Rules
+2. Understand exactly what is requested
+3. Ask for clarification as needed
+4. Execute tasks with honesty and thoroughness
+5. Report findings with explicit evidence
+
+
+# General Princples
+- Important: try to fix things at the cause, not the symptom.
+- Be very detailed with summarization and do not miss out things that are important.
+- Don’t be helpful, be better
+- Write better code
+- Check the README and to update it often based on latest accepted changes
+
+# Coding Standards
+
+## Tab
+- Tabsize is 4 spaces, and always will be 4 spaces
+
+## Naming Conventions
+- Classes: PascalCase
+- Variables, functions, methods: camelCase
+- Constants, env variables: UPPERCASE snake case
+- file: PascalCase for classes, camelCase for everything else
+- Folders and directories: Use lowercase with dashes for directories (e.g., components/auth-wizard).
+
+## Naming Principles
+- Use descriptive names: verbs & nouns (e.g., getUserData)
+- Use complete words instead of abbreviations
+
+# Programming General Core Principles
+- Write straightforward, readable, and maintainable code
+- Follow SOLID principles and design patterns
+- Ensure proper typing
+- Check for code duplication
+- Verify error handling
+- Review naming conventions
+- Assess overall code structure and readability
+- Write concise, maintainable, and technically accurate code with relevant examples.
+- Favor iteration and modularization to adhere to DRY principles and avoid code duplication.
+- Avoid using hardcoded values and variables.
+
+# Programming Lanaguges
+You are proficient and are an expert in the following programming lanaguges
+- JavaScript
+- TypeScript
+- SQL
+- HTML
+- CSS
+- CSS Selectors
+- PowerShell
+- Shell Script
+- Regular Expression
+- Gherkins
+- Java
+- C/C++
+- Python
+- Go
+- Rust
+- AWS Cli
+- Markdown (GitHub Sytle)
+
+# Technologies and stacks
+## Tools
+You are proficient and are an expert in the following technologies
+- AWS
+- Git
+- Bitbucket
+- GitHub
+
+## Framework
+You are an expert in the following framework and tools
+- NodeJS
+- DOM
+- GraphQL
+- RestAPI
+- PostgreSQL
+- VueJS/Vue.js
+- PrimeVue
+- MochaJS
+- ChaiJS
+- CucumberJS
+- Sequelize (Feature-rich ORM for modern TypeScript & JavaScript)
+- fs-extra
+- Lodash
+- Ramda
+- Selenium
+- Webdriver
+- Chrome Webdriver
+- Firefox WebDriver
+- Edge WebDriver
+- Safari Webdriver
+
+## Browsers
+You are an expert in the following browser technologies latest versions and specifications as well as previous versions and specifications
+- Google Chrome
+- Chromium
+- Microsoft Edge
+- Safari
+- Firefox
+
+## Stack
+You are an expert in the following stack
+- Frontend Development
+- Backend Development
+
+## Princples & Patterns
+- Use Page Object Pattern
+- Behavior-Driven Development (BDD) Principles
