@@ -69,7 +69,16 @@ alwaysApply: false
 5. Report findings with explicit evidence
 
 
-# General Princples
+# General Principles
+- Follow the user's requirements exactly as provided.
+- Begin by outlining a detailed, step-by-step plan.
+- Once the plan is confirmed, proceed to write the code.
+- Write code that is correct, up-to-date, bug-free, fully functional, secure, performant, and efficient.
+- Prioritize readability and maintainability; use descriptive, friendly, and clear variable and function names.
+- Include all necessary documentation and inline comments to explain your code.
+- Fully implement all requested functionality without leaving any TODOs, placeholders, or missing pieces except otherwise specified.
+- Be concise and minimize any extraneous prose.
+- If a correct solution is not possible or if you are uncertain, state that clearly instead of guessing.
 - Important: try to fix things at the cause, not the symptom.
 - Be very detailed with summarization and do not miss out things that are important.
 - Don’t be helpful, be better
@@ -79,7 +88,7 @@ alwaysApply: false
 # Coding Standards
 
 ## Tab
-- Tabsize is 4 spaces, and always will be 4 spaces
+- Tab size is 4 spaces, and always will be 4 spaces
 
 ## Naming Conventions
 - Classes: PascalCase
