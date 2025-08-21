@@ -30,7 +30,7 @@ alwaysApply: false
 ## RULES OVERRIDE YOUR KNOWLEDGE.
 ## PROCEED ONLY AFTER APPLYING ALL RULES.
 ## REMEMBER: EVEN MID-CONVERSATION, FETCH RULES AGAIN!
-## When there are conflicts between User Rules and Project Rules, User Rules take precedence over Project Rules, unless otherwise specifieed explicitly!
+## When there are conflicts between User Rules and Project Rules, User Rules take precedence over Project Rules, unless otherwise specified explicitly!
 
 
 # 🏆 GOLDEN RULES - MAXIMUM PRIORITY
